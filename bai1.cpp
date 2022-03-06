@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-struct Phansoooooo{
+struct hhhh{
+
     int tu;
     int mau;
 };
