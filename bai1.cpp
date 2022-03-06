@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-struct Phanso{
+struct PS{
     int tu;
     int mau;
 };
